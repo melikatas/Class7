@@ -1,1 +1,2 @@
-Some code 
+Some codes for landing page
+some more code
